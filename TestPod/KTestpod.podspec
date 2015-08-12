@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.name         = 'KTestpod'
   s.version      = '0.0.1'
   s.summary      = 'library test of KTestPod.'
-s.homepage = 'http://nshipster.com'
+s.homepage = 'https://Krizti@bitbucket.org/Krizti/testpod'
     s.license      = { :type => 'MIT', :file => 'LICENSE' }
 
 
