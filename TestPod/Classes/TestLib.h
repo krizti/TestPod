@@ -10,4 +10,6 @@
 
 @interface TestLib : NSObject
 
+- (void) testLog;
+
 @end
