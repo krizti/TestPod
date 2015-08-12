@@ -10,7 +10,7 @@ s.homepage = 'http://nshipster.com'
   s.authors             = { 'Kirthi' => 'kiruthika@rootwork.co' }
   s.source       = { :git => 'https://Krizti@bitbucket.org/Krizti/testpod.git', :tag => '0.0.1' }
 
-  s.source_files  = 'Classes/*.{h,m}'
+  s.source_files  = 'TestPod/Classes/*.{h,m}'
  s.platform = :ios
  s.requires_arc  = false
  end
