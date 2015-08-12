@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4CAC6F33-445A-4792-918C-AD0C2CA67AF3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FEB8E14DF31DD23FE08F08CB8EB9DC9426F794C8</key>
+		<string>https://bitbucket.org/Krizti/testpod.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestPod/TestPod.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FEB8E14DF31DD23FE08F08CB8EB9DC9426F794C8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/Krizti/testpod.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FEB8E14DF31DD23FE08F08CB8EB9DC9426F794C8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FEB8E14DF31DD23FE08F08CB8EB9DC9426F794C8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestPod</string>
+		</dict>
+	</array>
+</dict>
+</plist>

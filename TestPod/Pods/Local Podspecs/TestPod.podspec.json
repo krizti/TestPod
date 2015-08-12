@@ -1,0 +1,22 @@
+{
+  "name": "TestPod",
+  "version": "0.0.1",
+  "summary": "library test of TestPod.",
+  "homepage": "http://nshipster.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kirthi": "kiruthika@rootwork.co"
+  },
+  "source": {
+    "git": "https://Krizti@bitbucket.org/Krizti/testpod.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "platforms": {
+    "ios": null
+  },
+  "requires_arc": false
+}
